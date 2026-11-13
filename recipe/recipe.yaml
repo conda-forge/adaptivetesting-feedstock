@@ -2,7 +2,7 @@ schema_version: 1
 
 context:
   python_min: "3.12"
-  version: "1.2.1"
+  version: "1.2.2"
 
 package:
   name: adaptivetesting
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/adaptivetesting/adaptivetesting-${{ version }}.tar.gz
-  sha256: 3e7034a5675bd2d94ae5548424f4dc9b83409f98cb8e18acdfd20b90d6a27bd0
+  sha256: 7c2d9c5e2a3e00008839628965cc82be1e12519c3defa04c213804f5d89c6b22
 
 build:
   number: 0
